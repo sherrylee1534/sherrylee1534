@@ -8,4 +8,4 @@ I’m interested in programming, problem-solving, designing, creativity and gami
 develop games that will provide impactful, entertaining experiences to the players.
 
 
-My repositories here consist of personal projects (games) & school projects (apps).
+My repositories here consist of personal projects & school projects.
